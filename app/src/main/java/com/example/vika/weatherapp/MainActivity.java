@@ -1,7 +1,6 @@
 package com.example.vika.weatherapp;
 
 import android.support.design.widget.TabLayout;
-import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,7 +8,6 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 
 
-import com.example.vika.weatherapp.view.adapter.TabPagerAdapter;
 import com.example.vika.weatherapp.view.adapter.ViewPagerAdapter;
 import com.example.vika.weatherapp.view.fragment.TabTenDay;
 import com.example.vika.weatherapp.view.fragment.TabToday;
